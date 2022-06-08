@@ -5,4 +5,9 @@
 
 .text-block{
     background-color: blue;
+    display: block;
+    width: 136px;
+    height: 21px;
+    overflow: hidden;
+    font-size: 20px;
 }
